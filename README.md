@@ -321,6 +321,9 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
   * [FluentValidation](https://github.com/JeremySkinner/FluentValidation) - Small validation library for .NET that uses a fluent interface and lambda expressions for building validation rules.
   * [Valit](https://github.com/valit-stack/Valit) - A dead simple validation for .NET Core. No more if-statements all around your code. Write nice and clean fluent validators instead!
 * [warden-stack](https://github.com/warden-stack) - "health checks" for your applications, resources and infrastructure. Keep your Warden on the watch.
+* [Coravel](https://github.com/jamesmh/coravel) developers get their web applications up-and-running fast - without compromising code quality. It makes what are usually advanced features accessible and easy-to-use - without needing to install any extra 3rd-party infrastructure.
+* [Foundatio](https://github.com/FoundatioFx/Foundatio)Pluggable foundation blocks for building distributed apps
+* [Qoollo.Turbo](https://github.com/qoollo)Library contains a number of reuseful base classes
 
 ### ORM
 * [Entity Framework Core](https://github.com/aspnet/EntityFramework) - Familiar developer experience to previous versions of EF, including LINQ, POCO, and Code First support.
@@ -366,6 +369,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [LiquidState](https://github.com/prasannavl/LiquidState) - Efficient asynchronous and synchronous state machines for .NET
 * [quartznet](https://github.com/quartznet/quartznet/) - Quartz Enterprise Scheduler .NET [http://www.quartz-scheduler.net](http://www.quartz-scheduler.net).
 * [stateless](https://github.com/dotnet-state-machine/stateless) - Simple library for creating state machines in C# code.
+* [Gofer.NET](https://github.com/brthor/Gofer.NET) Easy distributed tasks/jobs for .NET Core
 
 ### SDKs
 * [AWS SDK](https://github.com/aws/aws-sdk-net) - The Amazon Web Services (AWS) .NET Core SDK components. Each AWS service has its own NuGet package.
