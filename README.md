@@ -12,6 +12,7 @@ Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https
 
 * [General](#general)
 * [Frameworks, Libraries and Tools](#frameworks-libraries-and-tools)
+  * [AOP](#aop)
   * [API](#api)
   * [Application Frameworks](#application-frameworks)
   * [Application Templates](#application-templates)
@@ -81,6 +82,8 @@ Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https
 * [Clean Code .NET/.NET Core](https://github.com/thangchung/clean-code-dotnet) - Clean Code concepts adapted for .NET / .NET Core.
 
 ## Frameworks, Libraries and Tools
+### AOP
+* [AspectCore-Framework](https://github.com/dotnetcore/AspectCore-Framework) AOP框架是AspectCore（国产，动态织入）
 
 ### API
 
