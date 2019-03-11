@@ -63,6 +63,7 @@ Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https
   * [Web Socket](#web-socket)
   * [Windows Service](#windows-service)
   * [Workflow](#workflow)
+* [Script](#Script)
 * [Starter Kits](#starter-kits)
 * [Sample Projects](#sample-projects)
 * [Articles](#articles)
@@ -751,6 +752,13 @@ Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https
 * [workflow-core](https://github.com/danielgerlag/workflow-core) - Lightweight workflow engine for .NET Standard.
 * [WorkflowEngine.NET](https://github.com/optimajet/WorkflowEngine.NET) - Component that adds workflow in your application.
 * [Wexflow](https://github.com/aelassas/Wexflow) - A high performance, extensible, modular and cross-platform workflow engine.
+
+
+## Script
+* [dotnet-script](https://github.com/filipw/dotnet-script)
+* [scriptcs](https://www.nuget.org/packages/ScriptCs.Engine.Roslyn/)
+* [SimpleHelpers.Net](https://github.com/khalidsalomao/SimpleHelpers.Net) Micro-libraries (pieces of utility code) for .Net that are safe and simple to use
+
 
 ## Starter Kits
 * [Arch](https://github.com/Arch) - The collection of .NET Core libraries that are created by software architects who embrace all the new stuff in .NET Core.
