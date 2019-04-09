@@ -47,6 +47,7 @@ Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https
   * [Networking](#networking)
   * [Misc](#misc)
   * [Office](#office)
+  * [OpenTracing](#OpenTracing)
   * [ORM](#orm)
   * [Profiling](#profiling)
   * [Queue and Messaging](#queue-and-messaging)
@@ -537,6 +538,11 @@ Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https
 * [EPPlus](https://github.com/JanKallman/EPPlus) - Create advanced Excel spreadsheets using .NET.
 * [npoi](https://github.com/tonyqus/npoi) - .NET library that can read/write Office formats without Microsoft Office installed. No COM+, no interop.
 * [Open-XML-SDK](https://github.com/OfficeDev/Open-XML-SDK) - The Open XML SDK provides tools for working with Office Word, Excel, and PowerPoint documents.
+
+### OpenTracing
+* [ClrProfiler.Trace](https://github.com/caozhiyuan/ClrProfiler.Trace) -CoreCLR Profiler ILReWrite , Use To OpenTracing
+* [JaegerDemo](https://github.com/catcherwong-archive/2019/tree/master/04/JaegerDemo) -Exploring Distributed Tracing Using ASP.NET Core And Jaeger
+* []() -
 
 ### ORM
 * [Chloe](https://github.com/shuxinqin/Chloe) - A lightweight and high-performance Object/Relational Mapping(ORM) library for .NET.
