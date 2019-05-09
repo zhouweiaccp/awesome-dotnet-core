@@ -578,6 +578,10 @@ Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https
 * [SqlFu](https://github.com/sapiens/SqlFu) - Fast and versatile Micro-ORM.
 * [SmartSql](https://github.com/Ahoo-Wang/SmartSql) - SmartSql = MyBatis + Cache(Memory | Redis) + ZooKeeper + R/W Splitting +Dynamic Repository ....
 * [SQLStreamStore](https://github.com/SQLStreamStore/SQLStreamStore) - Stream Store library targeting SQL based implementations for .NET.
+* [linq2db](https://github.com/linq2db/linq2db) one step above micro-ORMs like Dapper, Massive, or PetaPoco   T4模板
+* [AntData.ORM](https://github.com/yuzd/AntData.ORM) vs插件或者t4一键生成entity 支持配置非物理外键。分离linq转sql引擎(原生linq非扩展)和执行dal功能,支持异步
+* [SqliteSugar](git@github.com:sunkaixuan/SqliteSugar.git)  简单方便
+* []()
 
 ### Profiling
 * [Glimpse](https://github.com/Glimpse/Glimpse.Prototype) - Lightweight, open-source, real-time diagnostics and insights profiler for .NET. `Unstable version`
