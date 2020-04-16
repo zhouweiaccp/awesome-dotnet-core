@@ -27,6 +27,7 @@ Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https
   * [Compression](#compression)
   * [Compilers, Transpilers and Languages](#compilers-transpilers-and-languages)
   * [Cryptography](#cryptography)
+  * [Doc](#Doc)
   * [Database](#database)
   * [Database Drivers](#database-drivers)
   * [Database Tools and Utilities](#database-tools-and-utilities)
@@ -331,6 +332,15 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [nsec](https://github.com/ektrah/nsec) - NSec is a new cryptographic library for .NET Core based on libsodium.
 * [SecurityDriven.Inferno](github.com/sdrapkin/SecurityDriven.Inferno) - Hig level crypto library used .Net primitives, has been professionally audited.
 
+### Doc
+* [AspNetCore.ApiDoc](https://github.com/AspNetCoreFoundations/AspNetCore.ApiDoc) 更智能  https://www.cnblogs.com/gdsblog/archive/2019/01/21/10296815.html
+* [swagger]() 
+* []() 
+* []() 
+* []() 
+* []() 
+
+
 ### Database
 * [DBreeze](https://github.com/hhblaze/DBreeze) - C# .NET MONO NOSQL (key value store embedded) ACID multi-paradigm database management system.
 * [JsonFlatFileDataStore](https://github.com/ttu/json-flatfile-datastore) - Simple JSON flat file data store with support for typed and dynamic data.
@@ -487,6 +497,12 @@ Follows best practices and conventions to provide you a SOLID development experi
   * [Serilog.Settings.Configuration](https://github.com/serilog/serilog-settings-configuration) - A Serilog configuration provider that reads from Microsoft.Extensions.Configuration.
 * [SEQ](https://getseq.net) - Seq collects data over HTTP, while your applications use the best available structured logging APIs for your platform.
 * [log4Net.Async]( git@github.com:cjbhaines/Log4Net.Async.git) 异步写日志log4net
+* [AspNetCore.FileLog](https://github.com/AspNetCoreFoundations/AspNetCore.FileLog) netcore 简单 web界面可以显示
+* []()
+* []()
+* []()
+
+
 ### Machine Learning and Data Science
 * [Accord](https://github.com/accord-net/framework) - Machine learning, computer vision, statistics and general scientific computing for .NET.
 * [Catalyst](https://github.com/curiosity-ai/catalyst) Cross-platform Natural Language Processing (NLP) library inspired by spaCy, with pre-trained models, out-of-the box support for training word and document embeddings, and flexible entity recognition models. Part of the [SciSharp Stack](https://scisharp.github.io/SciSharp/)
