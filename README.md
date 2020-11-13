@@ -88,7 +88,8 @@ Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https
 ## Frameworks, Libraries and Tools
 ### AOP
 * [AspectCore-Framework](https://github.com/dotnetcore/AspectCore-Framework) AOP框架是AspectCore（国产，动态织入）
-
+* [StartupModules](https://github.com/henkmollema/StartupModules)  模板化加载
+* [Destiny.Core.Flow](https://github.com/DestinyCore/Destiny.Core.Flow)Destiny.Core.Flow是基于.Net Core开发的一个开源Admin管理框架目前有以下模块：菜单管理、用户管理、角色管理、用户角色、角色权限等功能
 ### API
 
 * [autorest](https://github.com/Azure/autorest) - Swagger (OpenAPI) Specification code generator featuring C# and Razor templates. Supports C#, Java, Node.js, TypeScript, Python and Ruby. `4.5.x or above`
