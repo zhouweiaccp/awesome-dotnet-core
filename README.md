@@ -260,6 +260,25 @@ Follows best practices and conventions to provide you a SOLID development experi
 
 ### Caching
 * [CacheManager](https://github.com/MichaCo/CacheManager) - Open source caching abstraction layer for .NET written in C#. It supports various cache providers and implements many advanced features. [http://cachemanager.michaco.net](http://cachemanager.michaco.net)
+    Dictionary Handle
+      A simple but very efficient implementation. This handle is faster than any other in most scenarios and works cross platform.
+
+      MemoryCache
+      Two implementations are available, based on System.Runtime.Caching and based on the new Microsoft.Extensions.Caching.Memory package.
+
+      Redis
+      Redis can be used as an extremely fast and reliable out of process (or distributed) solution.
+
+      The Redis implementation is based on the popular StackExchange.Redis package.
+
+      Memcached
+      Another great distributed solution is memcached, which can be used as a layer.
+
+      Couchbase
+      Couchbase is primarily a document database but can also be used for simple caching.
+
+      ASP.NET 4
+      ASP.NET comes with its own in-process
 * [EasyCaching](https://github.com/dotnetcore/EasyCaching) - Open source caching library that contains basic usages and some advanced usages of caching which can help us to handle caching more easier.
 * [Faster](https://github.com/Microsoft/FASTER/tree/master/cs) - Fast key-value store from Microsoft Research.
 * [Foundatio](https://github.com/exceptionless/Foundatio) - Pluggable foundation blocks for building distributed apps.
