@@ -868,7 +868,7 @@ Follows best practices and conventions to provide you a SOLID development experi
   * [Ooui](https://github.com/praeclarum/Ooui) - Small cross-platform UI library that brings the simplicity of native UI development to the web.
 * [ReactJS.NET](https://github.com/reactjs/React.NET) - .NET library for JSX compilation and server-side rendering of React components.
 * [redux.NET](https://github.com/GuillaumeSalles/redux.NET) - Predictable state container for .NET apps. Inspired by [https://github.com/reactjs/redux](https://github.com/reactjs/redux).
-* [Panda.DynamicWebApi(https://github.com/dotnetauth/Panda.DynamicWebApi)  是一个动态生成WebApi的组件，生成的API符合Restful风格，受启发于ABP。它可以根据符合条件的类来生成WebApi，由MVC框架直接调用逻辑，无性能问题，完美兼容Swagger来构建API说明文档，与手动编写Controller相比并无区别。
+* [Panda.DynamicWebApi](https://github.com/dotnetauth/Panda.DynamicWebApi)  是一个动态生成WebApi的组件，生成的API符合Restful风格，受启发于ABP。它可以根据符合条件的类来生成WebApi，由MVC框架直接调用逻辑，无性能问题，完美兼容Swagger来构建API说明文档，与手动编写Controller相比并无区别。
 * [AntMgr](https://github.com/yuzd/AntMgr) - mvc快速开发系统（菜单，角色，权限[精确到按钮]）
 
 ### Web Socket
@@ -895,8 +895,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [SimpleHelpers.Net](https://github.com/khalidsalomao/SimpleHelpers.Net) Micro-libraries (pieces of utility code) for .Net that are safe and simple to use
 
 ## Roadmaps
-* [ASP.NET Core Developer Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) - Roadmap to becoming an ASP.NET Core developer in 2019.
-
+* [ASP.NET Core Developer Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) - 这张路线图将指导你，而不是鼓励你选择时髦的东西。你应该逐渐理解为什么一种工具比另一种工具更适合某些场景，并且记住时髦和新颖的东西并不总是意味着最适合这个工作
 
 ## Starter Kits
 * [Arch](https://github.com/Arch) - The collection of .NET Core libraries that are created by software architects who embrace all the new stuff in .NET Core.
@@ -954,7 +953,7 @@ Follows best practices and conventions to provide you a SOLID development experi
   * [Sample .NET Core CQRS REST API](https://github.com/kgrzybek/sample-dotnet-core-cqrs-api) - .NET Core REST API CQRS implementation with raw SQL and DDD using Clean Architecture.
   * [StarWars](https://github.com/JacekKosciesza/StarWars) - GraphQL 'Star Wars' example using GraphQL for .NET, ASP.NET Core, Entity Framework Core.
   * [anno.core](https://gitee.com/duyanming/anno.core) anno 是一个微服务快速开发框架，底层通讯可以随意切换 grpc、thrift。自带服务发现、调用链追踪、Cron 调度、限流、事件总线、CQRS 、DDD、类似MVC的开发体验，插件化开发
-  * []()
+  * [Z.ExtensionMethods](https://github.com/zzzprojects/Z.ExtensionMethods)通过超过1000种扩展方法增强.NET Framework
   * []()
 
 
