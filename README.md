@@ -370,7 +370,9 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [marten](https://github.com/JasperFx/marten) - Postgresql as a Document Database and Event Store for .NET Applications [http://jasperfx.github.io/marten](http://jasperfx.github.io/marten).
 * [StringDB](https://github.com/SirJosh3917/StringDB) - StringDB is a modular, key/value pair archival DB designed to consume *tiny* amounts of ram & produce *tiny* databases.
 * [yessql](https://github.com/sebastienros/yessql) - .NET document database working on any RDBMS.
-
+* [Bulk-Operations](https://github.com/zzzprojects/Bulk-Operations)C# SQL Bulk Operations | High performance C# bulk insert, update, delete and merge for SQL Server, SQL Azure, SQL Compact, MySQL and SQLite.
+* []()
+* []()
 ### Database Drivers
 * [cassandra-csharp-driver](https://github.com/datastax/csharp-driver) - DataStax C# Driver for Apache Cassandra.
 * [confluent-kafka-dotnet](https://github.com/confluentinc/confluent-kafka-dotnet) - Confluent's Apache Kafka .NET client.
