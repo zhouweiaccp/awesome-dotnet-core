@@ -562,6 +562,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [AgileMapper](https://github.com/agileobjects/AgileMapper) - AgileMapper is a zero-configuration, highly-configurable object-object mapper with viewable execution plans.
 * [AspNetCore Extension Library](https://github.com/sgjsakura/AspNetCore) - ASP.NET Core Extension Library.
 * [AutoMapper](https://github.com/AutoMapper/AutoMapper) - Convention-based object-object mapper in .NET.
+* [Mapster](https://github.com/MapsterMapper/Mapster) 比 AutoMapper 还高性能的对象映射
 * [Baget](https://github.com/loic-sharma/BaGet) - A lightweight NuGet server.
 * [Bleak](https://github.com/Akaion/Bleak) - A Windows native DLL injection library.
 * [Bullseye](https://github.com/adamralph/bullseye/) - A .NET package for describing and running targets and their dependencies.
