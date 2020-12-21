@@ -881,6 +881,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [redux.NET](https://github.com/GuillaumeSalles/redux.NET) - Predictable state container for .NET apps. Inspired by [https://github.com/reactjs/redux](https://github.com/reactjs/redux).
 * [Panda.DynamicWebApi](https://github.com/dotnetauth/Panda.DynamicWebApi)  是一个动态生成WebApi的组件，生成的API符合Restful风格，受启发于ABP。它可以根据符合条件的类来生成WebApi，由MVC框架直接调用逻辑，无性能问题，完美兼容Swagger来构建API说明文档，与手动编写Controller相比并无区别。
 * [AntMgr](https://github.com/yuzd/AntMgr) - mvc快速开发系统（菜单，角色，权限[精确到按钮]）
+* [](https://github.com/guoming/Hummingbird)分布式锁，分布式ID，分布式消息队列、服务注册，服务发现、超时、重试、熔断、负载均衡
 
 ### Web Socket
 * [Fleck](https://github.com/statianzo/Fleck) - Fleck is a WebSocket server implementation in C#. Fleck requires no inheritance, container, or additional references.
